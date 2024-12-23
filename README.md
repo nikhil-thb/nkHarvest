@@ -10,6 +10,7 @@ Bash
 ```bash
 git clone https://github.com/nikhil-thb/nkHarvest.git
 cd nkharvest
+```
 Make the Script Executable
 
 Give executable permissions to the script:
