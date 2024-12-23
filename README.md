@@ -24,7 +24,7 @@ git clone https://github.com/your-username/nkharvest.git
 cd nkharvest
 
 
-**### 2. Make the Script Executable**
+### 2. Make the Script Executable
 Give executable permissions to the script:
 
 ```bash
