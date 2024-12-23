@@ -1,7 +1,7 @@
 **nkHarvest**  
 nkHarvest is a shell script that customizes theHarvester for OSINT (Open-Source Intelligence) domain enumeration.
 
-**Setup**  
+**1. Setup**  
 Clone the Repository
 
 Clone the repository containing the script:
@@ -10,14 +10,14 @@ Clone the repository containing the script:
 git clone https://github.com/nikhil-thb/nkHarvest.git
 cd nkharvest
 ```
-**Make the Script Executable**  
+**2. Make the Script Executable**  
 
 Give executable permissions to the script:
 
 ```bash
 chmod +x run_nkharvest.sh
 ```
-**Running the Script**  
+**3. Running the Script**  
 Interactive Mode
 
 To run the script interactively, execute:
@@ -28,7 +28,7 @@ To run the script interactively, execute:
 
 The script will prompt you to enter the domain and result limit.
 
-**Command-Line Arguments Mode**  
+**4. Command-Line Arguments Mode**  
 
 To run the script with command-line arguments, use:
 
