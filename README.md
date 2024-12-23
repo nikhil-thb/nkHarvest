@@ -7,7 +7,7 @@ Clone the Repository
 Clone the repository containing the script:
 
 Bash
-
+```bash
 git clone https://github.com/nikhil-thb/nkHarvest.git
 cd nkharvest
 Make the Script Executable
@@ -15,7 +15,7 @@ Make the Script Executable
 Give executable permissions to the script:
 
 Bash
-
+```bash
 chmod +x run_nkharvest.sh
 Running the Script
 Interactive Mode
@@ -23,7 +23,7 @@ Interactive Mode
 To run the script interactively, execute:
 
 Bash
-
+```bash
 ./run_nkharvest.sh
 The script will prompt you to enter the domain and result limit.
 
