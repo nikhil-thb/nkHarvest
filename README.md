@@ -23,17 +23,9 @@ Clone the repository containing the script:
 git clone https://github.com/your-username/nkharvest.git
 cd nkharvest
 
-Running Methods
-1. Interactive Mode
-In interactive mode, the script will prompt you for the domain and result limit during execution.
 
-Steps:
-Run the script:
+**### 2. Make the Script Executable**
+Give executable permissions to the script:
 
 ```bash
-./run_nkharvest.sh
-
-The script will prompt you to enter:
-
-Domain: Enter the domain to scan (e.g., example.com).
-Result Limit: Specify the maximum number of results to retrieve (default: 500).
+chmod +x run_nkharvest.sh
