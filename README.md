@@ -17,6 +17,7 @@ Give executable permissions to the script:
 
 ```bash
 chmod +x run_nkharvest.sh
+```
 Running the Script
 Interactive Mode
 
