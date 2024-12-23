@@ -36,8 +36,8 @@ To run the script with command-line arguments, use:
 ./run_nkharvest.sh <domain> <limit>
 ```
 
-<domain>: The domain to scan (e.g., example.com).  
-<limit>: The maximum number of results (default: 500).  
+**\<domain\>:** The domain to scan (e.g., example.com).  
+**\<limit\>:** The maximum number of results (default: 500).  
 
 **License**  
 This project is licensed under the MIT License.
